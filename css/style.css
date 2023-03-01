@@ -38,6 +38,7 @@ body {
 
 .header .nav {
 	justify-content: center;
+	background-color: #FFFFFF;
 }
 
 .header .nav-link {
